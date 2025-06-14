@@ -129,7 +129,9 @@ Chaque joueur possède 3 emplacements :
 
 ## 📷 Visuels (à venir)
 
-- 🧱 Schéma du plateau de jeu
+- 🧱 Schéma du plateau de jeu :
+- ![046196d6-1e53-4b0c-ac1f-679def7d29a6](https://github.com/user-attachments/assets/e3eb99ac-d944-433d-ada2-6295376e6e5e)
+- ![94e75b5b-c703-44c1-827b-bcea17259a49](https://github.com/user-attachments/assets/cce0c393-260f-42bc-ac4b-0887fd25ce37)
 - 🃏 Exemples de cartes
 - 📊 Arbre de compétences
 - 🗺️ Interface utilisateur mockup
